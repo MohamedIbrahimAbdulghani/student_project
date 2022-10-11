@@ -1,0 +1,45 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+}
+.show-data {
+    margin-top: 3%;
+}
+.show-data tr {
+    text-align: center;
+}
+.form-data {
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color: silver;
+    color: white;
+    font-size: 20px;
+    margin-top: 3%;
+}
+.form-data h3 {
+    font-weight: bold;
+    text-align: center;
+}
+.form-data img {
+    height: 40%;
+    width: 40%;
+    display: flex;
+    margin: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.form-data input {
+    margin-bottom: 5px;
+}
+.form-data button {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+}
